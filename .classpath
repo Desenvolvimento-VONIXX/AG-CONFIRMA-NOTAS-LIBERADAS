@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/sanhttp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/jape.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/mge-modelcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/sanutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/sanws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/SankhyaW-extensions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/print-service-base.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
